@@ -52,6 +52,7 @@ public class contornoRombo {
 
 			System.out.println("");
 		}
+		System.out.println("Y se acabó");
 	}
 
 }
